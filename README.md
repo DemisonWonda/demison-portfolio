@@ -9,7 +9,8 @@ A fully responsive animated personal portfolio website, responsive for all devic
 
 ## Demo
 
-![Desktop Demo](https://github.com/XevenTech/projects_snapshots/blob/main/simple-animated-portfolio/hero.PNG?raw=true "Desktop Demo")
+![Desktop Demo]![Desain tanpa judul](https://github.com/user-attachments/assets/a0d46858-f88c-4430-9cb6-c6f729459161)
+
 
 ## Prerequisites
 
