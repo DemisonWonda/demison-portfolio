@@ -1,4 +1,4 @@
-# Simple Animated Portfolio
+![Desain tanpa judul](https://github.com/user-attachments/assets/9108667f-4e09-4eb7-bf74-ebf282c97428)# Simple Animated Portfolio
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/xeventech/simple-animated-portfolio)
 ![GitHub stars](https://img.shields.io/github/stars/xeventech/simple-animated-portfolio?style=social)
@@ -9,7 +9,8 @@ A fully responsive animated personal portfolio website, responsive for all devic
 
 ## Demo
 
-![Desktop Demo](https://github.com/XevenTech/projects_snapshots/blob/main/simple-animated-portfolio/hero.PNG?raw=true "Desktop Demo")
+![Desktop Demo]![Desain tanpa judul](https://github.com/user-attachments/assets/8360cfb8-bb96-48f5-be20-ff903a372aef)
+
 
 ## Prerequisites
 
